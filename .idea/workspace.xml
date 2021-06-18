@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93c2dc21-ea9a-4355-9eb4-a8f8a3b99107" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="local" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="local" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="local" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springdatajpa: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="local" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springdatajpa: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_role: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="local" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springdatajpa: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="t_user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="local" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springdatajpa: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user_role: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\meethigher\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r1gmzCmJIY3MZdkfKyubtteqbw" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/top/meethigher/demo4" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="top.meethigher.demo01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\JavaDev\SpringDataJPA\src\main\java\top\meethigher\demo4" />
+      <recent name="D:\Develop\JavaDev\SpringDataJPA\src\main\java\top\meethigher\demo02" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ManyToManyTest.testCascadeRemove">
+    <configuration name="ManyToManyTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.meethigher.demo04.top.meethigher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.meethigher.demo04.top.meethigher" />
+      <option name="MAIN_CLASS_NAME" value="top.meethigher.demo04.top.meethigher.ManyToManyTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyToManyTest.testCascadeAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.meethigher.demo04.top.meethigher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.meethigher.demo04.top.meethigher" />
+      <option name="MAIN_CLASS_NAME" value="top.meethigher.demo04.top.meethigher.ManyToManyTest" />
+      <option name="METHOD_NAME" value="testCascadeAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyToManyTest.testCascadeRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.meethigher.demo04.top.meethigher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.meethigher.demo04.top.meethigher" />
+      <option name="MAIN_CLASS_NAME" value="top.meethigher.demo04.top.meethigher.ManyToManyTest" />
+      <option name="METHOD_NAME" value="testCascadeRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToManyTest.testCascadeAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.meethigher.demo03.top.meethigher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.meethigher.demo03.top.meethigher" />
+      <option name="MAIN_CLASS_NAME" value="top.meethigher.demo03.top.meethigher.OneToManyTest" />
+      <option name="METHOD_NAME" value="testCascadeAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneToManyTest.testCascadeRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataJPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.meethigher.demo03.top.meethigher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.meethigher.demo03.top.meethigher" />
+      <option name="MAIN_CLASS_NAME" value="top.meethigher.demo03.top.meethigher.OneToManyTest" />
+      <option name="METHOD_NAME" value="testCascadeRemove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManyToManyTest.testCascadeRemove" />
+        <item itemvalue="JUnit.ManyToManyTest.testCascadeAdd" />
+        <item itemvalue="JUnit.ManyToManyTest.testAdd" />
+        <item itemvalue="JUnit.OneToManyTest.testCascadeRemove" />
+        <item itemvalue="JUnit.OneToManyTest.testCascadeAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93c2dc21-ea9a-4355-9eb4-a8f8a3b99107" name="Default Changelist" comment="" />
+      <created>1618149172222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618149172222</updated>
+      <workItem from="1618149173511" duration="6892000" />
+      <workItem from="1618159255770" duration="3847000" />
+      <workItem from="1618228404328" duration="27140000" />
+      <workItem from="1618334391160" duration="17301000" />
+      <workItem from="1618650375612" duration="3948000" />
+      <workItem from="1618706241483" duration="12162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Assign_Data_Sources" timestamp="1618713610781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1618713610781" />
+    <state x="361" y="74" key="#Inspections" timestamp="1618331581535">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1618331581535" />
+    <state x="647" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618331869365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1618331869365" />
+    <state x="574" y="121" width="388" height="698" key="#com.intellij.ide.util.MemberChooser" timestamp="1618735055734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" width="388" height="698" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1618735055734" />
+    <state x="575" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618712945469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="340" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1618712945469" />
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618712959627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1618712959627" />
+    <state x="618" y="165" key="#xdebugger.XInspectDialog" timestamp="1618240037382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="165" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1618240037382" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1618628278729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618628278729" />
+    <state width="1493" height="336" key="GridCell.Tab.0.bottom" timestamp="1618736753931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="336" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618736753931" />
+    <state width="1493" height="336" key="GridCell.Tab.0.center" timestamp="1618736753931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="336" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618736753931" />
+    <state width="1493" height="336" key="GridCell.Tab.0.left" timestamp="1618736753931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="336" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618736753931" />
+    <state width="1493" height="336" key="GridCell.Tab.0.right" timestamp="1618736753931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="336" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618736753931" />
+    <state width="1493" height="303" key="GridCell.Tab.1.bottom" timestamp="1618628281733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618628281733" />
+    <state width="1493" height="303" key="GridCell.Tab.1.center" timestamp="1618628281732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1618628281732" />
+    <state width="1493" height="303" key="GridCell.Tab.1.left" timestamp="1618628281732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1618628281732" />
+    <state width="1493" height="303" key="GridCell.Tab.1.right" timestamp="1618628281733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1618628281733" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1618233690813">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618233690813" />
+    <state x="788" y="154" width="546" height="524" key="StructurePopup" timestamp="1618235091185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="788" y="154" width="546" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1618235091185" />
+    <state x="322" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618244884376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="322" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1618244884376" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1618232818889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1618232818889" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1618152702922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1618152702922" />
+  </component>
+</project>
